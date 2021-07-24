@@ -6,11 +6,10 @@
 
 :pushpin: Полный список изученных команд/умений/навыков по каждому инструменту указан ниже в закрепленных разделах.
 
-**Social Media:**
+**Social media:**
 
-
-[![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/алексей-обвинцев-050531217)
-[![Mail](icons/mail.png)](Obvintsev.Aleksey@yandex.ru)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/алексей-обвинцев-050531217)
+[![Mail](icons/mail.png)](https://Obvintsev.Aleksey@yandex.ru)
 [![Telegram](icons/telegram.png)](https://t.me/TommyBahama)
 [![HeadHunter](icons/hh.png)](https://omsk.hh.ru/resume/a1a415a7ff0912a8d70039ed1f6162316b7137)
 [![GitHub](icons/github.png)](https://github.com/ObvintsevAleks)
