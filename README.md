@@ -6,13 +6,14 @@
 
 :pushpin: Полный список изученных команд/умений/навыков по каждому инструменту указан ниже в закрепленных разделах.
 
-Написать мне:
+**Social Media:**
 
-📫 ВК: https://vk.com/id217205677
 
-📫 Telegram: @TommyBahama
+[![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/алексей-обвинцев-050531217)
+[![Telegram](icons/telegram.png)](https://t.me/TommyBahama)
+[![HeadHunter](icons/hh.png)](https://omsk.hh.ru/resume/a1a415a7ff0912a8d70039ed1f6162316b7137)
+[![GitHub](icons/github.png)](https://github.com/ObvintsevAleks)
 
-✉️ Mail: Obvintsev.Aleksey@yandex.ru
 
 
 <!--
