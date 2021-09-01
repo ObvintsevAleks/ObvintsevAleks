@@ -8,7 +8,7 @@
 
 Написать мне:
 
-[![Vk](icons/vk.png)](https://vk.com/id217205677)
+
 [![Telegram](icons/telegram.png)](https://t.me/TommyBahama)
 [![Mail](icons/mail.png)](mailto:Obvintsev.Aleksey@yandex.ru)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/алексей-обвинцев-050531217)
